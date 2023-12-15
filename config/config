@@ -1,6 +1,8 @@
-# local-port,target-host,target-port
+# 4 or 6,local-port,target-host,target-port
 #
 # e.g.:
 # 80,my.domain.org,80
 # 80,192.168.178.99,80
-
+6,80,10.43.151.109,80
+6,443,10.43.151.109,443
+all,22,10.42.4.16,22
